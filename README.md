@@ -2,7 +2,7 @@
 
 A simple parser for Apache HTTP server config files.
 
-[![Build status](https://ci.appveyor.com/api/projects/status/0pva9cf6w7q4v2tx?svg=true)](https://ci.appveyor.com/project/ndouthit/apacheconfigparser)
+[![Build status](https://ci.appveyor.com/api/projects/status/qs1t2fma1mu1wapy?svg=true)](https://ci.appveyor.com/project/ndouthit/apacheconfigparser)
 
 ---
 
