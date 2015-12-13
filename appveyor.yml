@@ -11,8 +11,6 @@
   
   version: 0.0.0-alpha{build}
   
-  skip_non_tags: true
-  
   configuration: Release
   
   build:
