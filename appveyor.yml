@@ -54,6 +54,7 @@
       on:
         branch: master
         configuration: release
+        appveyor_repo_tag: true
 
 # configuration for "dev" branch
 # build in Debug mode and deploy to FTP
