@@ -14,10 +14,11 @@
     assembly_file_version: "{version}"
     assembly_informational_version: "0.0.0-alpha"
     
-    # scripts that are called at very beginning, before repo cloning
+  # scripts that are called at very beginning, before repo cloning
   init:
   - cmd: >-
       echo %APPVEYOR_BUILD_VERSION%
+
       git config --global core.autocrlf input
 
   # clone directory
